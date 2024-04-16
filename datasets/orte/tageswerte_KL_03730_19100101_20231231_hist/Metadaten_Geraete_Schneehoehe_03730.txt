@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3730;Oberstdorf;10.28;47.41;808;;19100101;19370114;Schneepegel;Schneehöhenmessung, manuell;eor;
+3730;Oberstdorf;10.28;47.4;810;;19370115;19380405;Schneepegel;Schneehöhenmessung, manuell;eor;
+3730;Oberstdorf;10.28;47.4;810.57;;19380406;19940716;Schneepegel;Schneehöhenmessung, manuell;eor;
+3730;Oberstdorf;10.28;47.4;806;;19940717;20070605;Schneepegel;Schneehöhenmessung, manuell;eor;
+3730;Oberstdorf;10.28;47.4;805.76;;20070606;20071130;Schneepegel;Schneehöhenmessung, manuell;eor;
+3730;Oberstdorf;10.28;47.4;805.76;2.3;20071201;20090430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;2.3;20091001;20100504;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;2.3;20101001;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;2.3;20111001;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;2.3;20121001;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;2.3;20131001;20170117;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;3.94;20170118;20210425;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;3.8;20210426;20240328;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

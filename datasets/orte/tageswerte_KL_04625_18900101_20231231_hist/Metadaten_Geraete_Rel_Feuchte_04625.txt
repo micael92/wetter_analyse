@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4625;Schwerin;;;;;18900101;19490116;Gerätetyp unbekannt;Feuchteregistrierung, konv.;eor;
+4625;Schwerin;11.42;53.64;43;2;19470512;19480930;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4625;Schwerin;11.39;53.64;59;2;19481001;19490713;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4625;Schwerin;11.39;53.64;59;2;19490117;19530630;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+4625;Schwerin;11.39;53.64;58.79;2;19530701;20081022;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+4625;Schwerin;11.39;53.64;58.79;2;19880425;19921129;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;2;19920720;19990226;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;2;19990301;20041224;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;2;20041228;20081022;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;2;20080930;20150120;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;2;20140731;20240328;EE33;Feuchtemessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

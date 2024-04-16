@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2290;Hohenpeißenberg;11.01;47.8;977.2;2.3;20150910;20191209;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+2290;Hohenpeißenberg;11.01;47.8;977.2;2;20191210;20240328;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

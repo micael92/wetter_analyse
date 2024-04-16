@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;985;;18790101;19110101;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;986.4;1.4;19361201;19400409;Hellmann;Niederschlagsmenge, konv.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977;1.6;19400410;19910122;Hellmann;Niederschlagsmenge, konv.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977;1.6;19931209;19980304;NG 200, Trˆpfchenz‰hler;Niederschlagsdauer, -menge, elektr.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977;1.5;20081016;20090714;PLUVIO;Niederschlagsmenge, elektr.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977.2;1.5;20090715;20171011;PLUVIO;Niederschlagsmenge, elektr.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977.2;1.5;20171012;20240328;rain[e]H3, W‰getechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

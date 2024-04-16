@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+891;Cuxhaven;8.68;53.88;2.4;;19460101;19510503;Schneepegel;Schneehöhenmessung, manuell;eor;
+891;Cuxhaven;8.71;53.87;4;;19510504;19720406;Schneepegel;Schneehöhenmessung, manuell;eor;
+891;Cuxhaven;8.71;53.87;5;;19720407;20170115;Schneepegel;Schneehöhenmessung, manuell;eor;
+891;Cuxhaven;8.71;53.87;5;2;20080415;20100504;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;2;20101001;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;2;20111001;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;2;20121001;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;2;20131001;20131028;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;2;20131029;20170919;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;4.9;2;20170928;20191024;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;4.9;2;20191113;20240328;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

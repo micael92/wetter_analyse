@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1490;;19450101;19450410;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1490;;19450801;19510228;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;1495.8;19510301;19951108;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;1495.8;19951109;20081202;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;1495.82;20081203;20130304;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;1495.82;20081203;20140131;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;1495.82;20130305;20180604;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;1495.82;20180605;20240328;Digitalbarometer PTB 330 (ohne Anzeige, einfach);Luftdruckmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

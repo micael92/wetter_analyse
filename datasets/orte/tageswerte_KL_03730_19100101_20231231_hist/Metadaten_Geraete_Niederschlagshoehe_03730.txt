@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3730;Oberstdorf;10.28;47.41;808;1.5;19100101;19370114;Hellmann;Niederschlagsmenge, konv.;eor;
+3730;Oberstdorf;10.28;47.4;810;1.5;19370115;19380405;Hellmann;Niederschlagsmenge, konv.;eor;
+3730;Oberstdorf;10.28;47.4;810.57;1.5;19380406;19940716;Hellmann;Niederschlagsmenge, konv.;eor;
+3730;Oberstdorf;10.28;47.4;806;1.6;19940717;20041014;Niederschlagssensor nach Joss-Tognini;Niederschlagsmenge, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;806;1.5;20041015;20070605;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;1.5;20070606;20180819;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;1.5;20180820;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

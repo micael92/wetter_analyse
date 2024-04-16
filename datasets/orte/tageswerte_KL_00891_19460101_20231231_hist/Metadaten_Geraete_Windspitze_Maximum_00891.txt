@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+891;Cuxhaven;8.71;53.87;4;25.9;19690101;19720406;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+891;Cuxhaven;8.71;53.87;5;25.9;19720407;19990428;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+891;Cuxhaven;8.71;53.87;5;25.9;19990429;20040218;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;12;20040219;20170919;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;4.9;21.7;20170929;20221121;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;4.9;21.7;20221122;20240328;Ultrasonic Anemometer 2D compact;Windmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

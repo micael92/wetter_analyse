@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3987;Potsdam;13.06;52.38;80.86;34;19920812;19921119;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;33;19921120;19970919;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;33;19970929;19990227;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;33;19990301;20030625;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;33;20030627;20041121;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;23.1;20041019;20041121;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;23.1;20041124;20050116;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;23.1;20050131;20050317;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;33;20050316;20170730;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;33;20170802;20211111;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;33;20211116;20240328;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

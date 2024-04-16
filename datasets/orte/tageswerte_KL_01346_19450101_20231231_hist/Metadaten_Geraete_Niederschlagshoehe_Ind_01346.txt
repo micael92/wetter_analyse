@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;14.1;19951109;20081202;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;5;20081203;20091118;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;14.17;20091119;20240328;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1490;13.5;19450101;19450410;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1490;13.5;19450801;19510228;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;13.5;19510301;19951108;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;14.1;19951109;20091118;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;14.1;20091119;20091124;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;14.1;20091130;20171018;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;14.9;20171019;20190703;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;15.1;20190704;20191105;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;15.1;20200122;20230821;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;;20230822;20240328;Pyranometer CMP22 (+Sonne);Sonnenscheind/Strahlungs-/Sonnenscheinmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

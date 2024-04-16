@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3987;Potsdam;18930101;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  3987;DWD;18930101;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

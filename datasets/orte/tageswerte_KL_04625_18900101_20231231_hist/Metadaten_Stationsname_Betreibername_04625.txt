@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4625;Schwerin;18490201;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  4625;Wetterdienst;18490201;19491231
+  4625;Meteorologischer Dienst der DDR;19500101;19901002
+  4625;DWD;19901003;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

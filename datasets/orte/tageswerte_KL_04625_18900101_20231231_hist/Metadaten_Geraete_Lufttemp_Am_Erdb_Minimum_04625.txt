@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4625;Schwerin;;;;;19370101;19460429;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+4625;Schwerin;11.42;53.64;43;.05;19460430;19480930;Minimumthermometer;Temperaturmessung, konv.;eor;
+4625;Schwerin;11.39;53.64;59;.05;19481001;19530630;Minimumthermometer;Temperaturmessung, konv.;eor;
+4625;Schwerin;11.39;53.64;58.79;.05;19530701;20081022;Minimumthermometer;Temperaturmessung, konv.;eor;
+4625;Schwerin;11.39;53.64;58.79;.05;19880425;19951021;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;.05;19951023;19990226;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;.05;19990301;20041224;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;.05;20041228;20201018;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;.05;20201023;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

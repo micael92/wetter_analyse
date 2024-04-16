@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;986.4;19;19370101;19370331;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;986.4;17.8;19370401;19400331;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977;15;19400410;19541130;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977;30;19541201;19720731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977;15;19720801;19880430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977;15.2;19820501;20041216;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977;15.2;19880501;19931208;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977;15.16;20041217;20090714;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977.2;15.16;20090715;20170829;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977.2;15.16;20170830;20190812;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977.2;15.16;20190813;20191010;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977.2;15.16;20191018;20211024;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+2290;Hohenpeiﬂenberg;11.01;47.8;977.2;15.16;20211028;20240328;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

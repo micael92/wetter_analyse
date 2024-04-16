@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3730;Oberstdorf;10.28;47.41;808;3;19100101;19370114;Maximumthermometer;Temperaturmessung, konv.;eor;
+3730;Oberstdorf;10.28;47.4;810;2.2;19370115;19380405;Maximumthermometer;Temperaturmessung, konv.;eor;
+3730;Oberstdorf;10.28;47.4;810.57;2.2;19380406;19940716;Maximumthermometer;Temperaturmessung, konv.;eor;
+3730;Oberstdorf;10.28;47.4;806;2;19940717;20070605;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;805.76;2;20070606;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

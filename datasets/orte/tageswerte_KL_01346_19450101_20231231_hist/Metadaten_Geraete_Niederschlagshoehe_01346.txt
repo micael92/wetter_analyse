@@ -1,0 +1,16 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1490;1.75;19450101;19450410;Hellmann;Niederschlagsmenge, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1490;1.8;19450101;19510228;Hellmann;Niederschlagsmenge, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1490;1.75;19450801;19510228;Hellmann;Niederschlagsmenge, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;1.8;19510301;19970531;Hellmann;Niederschlagsmenge, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;1.25;19510301;20081202;Hellmann;Niederschlagsmenge, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;4;20081203;20140201;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;4;20091111;20091231;Hellmann;Niederschlagsmenge, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;3.7;20140202;20180917;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;3.7;20180918;20190125;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;3.7;20190201;20190218;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;3.7;20190501;20200209;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;3.7;20200212;20210112;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;3.7;20210115;20231130;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;3.7;20231203;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

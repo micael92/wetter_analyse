@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4625;Schwerin;11.39;53.64;58.79;1;19890428;19940119;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;1;19940122;19970504;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;1;19950509;19990226;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;1;19970515;20081022;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;1;19990301;19991024;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;1;19991101;20090323;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;58.79;1;20090127;20240328;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

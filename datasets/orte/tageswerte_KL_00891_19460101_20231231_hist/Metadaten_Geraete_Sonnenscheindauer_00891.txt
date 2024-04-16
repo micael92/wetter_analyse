@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+891;Cuxhaven;8.68;53.88;2.4;11.2;19460601;19510503;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+891;Cuxhaven;8.71;53.87;4;19.4;19510504;19720406;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+891;Cuxhaven;8.71;53.87;5;19.4;19720407;20000430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+891;Cuxhaven;8.71;53.87;5;19.1;20000501;20070124;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;19.1;20070125;20170919;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;4.9;19.1;20170928;20200917;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;4.9;19.1;20200921;20240328;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

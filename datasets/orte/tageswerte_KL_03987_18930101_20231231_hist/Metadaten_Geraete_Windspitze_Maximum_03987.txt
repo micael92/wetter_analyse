@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3987;Potsdam;13.06;52.38;81;39.3;19670101;19711221;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+3987;Potsdam;13.06;52.38;81;39.3;19711222;19841231;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3987;Potsdam;13.06;52.38;80.86;39.3;19850101;19851217;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3987;Potsdam;13.06;52.38;80.86;39.3;19860107;19930912;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3987;Potsdam;13.06;52.38;80.86;37.7;19930826;20050116;WMG 201;Windmessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;39.3;20041216;20050612;WMG 201;Windmessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;37.7;20050524;20090622;WMG 201;Windmessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;37.7;20090622;20230705;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;80.86;37.7;20230706;20240328;Ultrasonic Anemometer 2D compact;Windmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

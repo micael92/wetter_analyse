@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+891;Cuxhaven;8.68;53.88;2.4;9.08;19460101;19510503;Stationsbarometer;Luftdruckmessung, konv.;eor;
+891;Cuxhaven;8.71;53.87;4;12;19510504;19720406;Stationsbarometer;Luftdruckmessung, konv.;eor;
+891;Cuxhaven;8.71;53.87;5;12;19720407;20000508;Stationsbarometer;Luftdruckmessung, konv.;eor;
+891;Cuxhaven;8.71;53.87;5;12;20000509;20140918;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;12;20140919;20140921;Digitalbarometer PTB 330 (ohne Anzeige, einfach);Luftdruckmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;12;20140922;20160918;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;5;12;20160919;20170919;Digitalbarometer PTB 330 (ohne Anzeige, einfach);Luftdruckmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;4.9;12;20170928;20210113;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+891;Cuxhaven;8.71;53.87;4.9;12;20210114;20240328;Digitalbarometer PTB 330 (ohne Anzeige, einfach);Luftdruckmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

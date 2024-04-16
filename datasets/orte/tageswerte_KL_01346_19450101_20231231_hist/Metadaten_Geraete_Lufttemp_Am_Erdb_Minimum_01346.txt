@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1490;.05;19470901;19510228;Minimumthermometer;Temperaturmessung, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;.05;19510301;20010718;Minimumthermometer;Temperaturmessung, konv.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1486.07;.05;20010719;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

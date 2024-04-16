@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   856;Chieming;19760503;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+   856;DWD;19760503;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --
