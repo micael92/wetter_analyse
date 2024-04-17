@@ -1,0 +1,14 @@
+  STATIONS_ID    MESS_DATUM              RSK             SDK        
+ Min.   :891   Min.   :2021-01-01   Min.   : 0.00   Min.   : 0.000  
+ 1st Qu.:891   1st Qu.:2021-09-28   1st Qu.: 0.00   1st Qu.: 0.400  
+ Median :891   Median :2022-06-26   Median : 0.20   Median : 3.500  
+ Mean   :891   Mean   :2022-06-27   Mean   : 2.49   Mean   : 4.625  
+ 3rd Qu.:891   3rd Qu.:2023-03-24   3rd Qu.: 3.30   3rd Qu.: 7.812  
+ Max.   :891   Max.   :2023-12-31   Max.   :42.70   Max.   :15.900  
+      TMK       
+ Min.   :-4.00  
+ 1st Qu.: 6.00  
+ Median :10.40  
+ Mean   :10.77  
+ 3rd Qu.:16.20  
+ Max.   :25.90  
