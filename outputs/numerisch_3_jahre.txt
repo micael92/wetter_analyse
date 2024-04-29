@@ -1,0 +1,90 @@
+[1] "station_856"
+      RSK              SDK              TMK        
+ Min.   : 0.000   Min.   : 0.000   Min.   :-9.600  
+ 1st Qu.: 0.000   1st Qu.: 0.700   1st Qu.: 3.900  
+ Median : 0.100   Median : 4.600   Median : 9.500  
+ Mean   : 3.215   Mean   : 5.397   Mean   : 9.958  
+ 3rd Qu.: 3.800   3rd Qu.: 9.500   3rd Qu.:16.600  
+ Max.   :60.400   Max.   :15.000   Max.   :25.900  
+
+[1] "station_891"
+      RSK             SDK              TMK       
+ Min.   : 0.00   Min.   : 0.000   Min.   :-4.00  
+ 1st Qu.: 0.00   1st Qu.: 0.400   1st Qu.: 6.00  
+ Median : 0.20   Median : 3.500   Median :10.40  
+ Mean   : 2.49   Mean   : 4.625   Mean   :10.77  
+ 3rd Qu.: 3.30   3rd Qu.: 7.812   3rd Qu.:16.20  
+ Max.   :42.70   Max.   :15.900   Max.   :25.90  
+
+[1] "station_1346"
+      RSK              SDK              TMK         
+ Min.   : 0.000   Min.   : 0.000   Min.   :-15.200  
+ 1st Qu.: 0.000   1st Qu.: 0.200   1st Qu.: -0.100  
+ Median : 0.100   Median : 4.000   Median :  5.200  
+ Mean   : 3.386   Mean   : 4.832   Mean   :  5.296  
+ 3rd Qu.: 3.700   3rd Qu.: 8.550   3rd Qu.: 11.100  
+ Max.   :89.300   Max.   :15.200   Max.   : 22.400  
+
+[1] "station_2290"
+      RSK              SDK              TMK         
+ Min.   : 0.000   Min.   : 0.000   Min.   :-12.000  
+ 1st Qu.: 0.000   1st Qu.: 1.100   1st Qu.:  3.050  
+ Median : 0.100   Median : 5.100   Median :  8.600  
+ Mean   : 3.308   Mean   : 5.702   Mean   :  8.692  
+ 3rd Qu.: 3.700   3rd Qu.: 9.566   3rd Qu.: 15.050  
+ Max.   :62.000   Max.   :15.500   Max.   : 26.400  
+
+[1] "station_2712"
+      RSK             SDK              TMK       
+ Min.   : 0.00   Min.   : 0.000   Min.   :-6.80  
+ 1st Qu.: 0.00   1st Qu.: 1.200   1st Qu.: 5.40  
+ Median : 0.00   Median : 4.850   Median :10.80  
+ Mean   : 2.49   Mean   : 5.687   Mean   :11.08  
+ 3rd Qu.: 2.30   3rd Qu.: 9.630   3rd Qu.:17.60  
+ Max.   :84.60   Max.   :15.267   Max.   :26.50  
+
+[1] "station_3631"
+      RSK              SDK              TMK      
+ Min.   : 0.000   Min.   : 0.000   Min.   :-3.8  
+ 1st Qu.: 0.000   1st Qu.: 0.800   1st Qu.: 6.3  
+ Median : 0.200   Median : 4.100   Median :10.5  
+ Mean   : 2.134   Mean   : 5.141   Mean   :10.9  
+ 3rd Qu.: 2.600   3rd Qu.: 8.883   3rd Qu.:16.4  
+ Max.   :45.900   Max.   :16.300   Max.   :25.6  
+
+[1] "station_3730"
+      RSK              SDK              TMK         
+ Min.   : 0.000   Min.   : 0.000   Min.   :-12.900  
+ 1st Qu.: 0.000   1st Qu.: 0.500   1st Qu.:  2.100  
+ Median : 0.300   Median : 4.200   Median :  7.900  
+ Mean   : 5.011   Mean   : 4.645   Mean   :  8.058  
+ 3rd Qu.: 6.700   3rd Qu.: 8.100   3rd Qu.: 15.000  
+ Max.   :75.100   Max.   :13.617   Max.   : 24.600  
+
+[1] "station_3987"
+      RSK              SDK              TMK       
+ Min.   : 0.000   Min.   : 0.000   Min.   :-9.40  
+ 1st Qu.: 0.000   1st Qu.: 0.617   1st Qu.: 4.95  
+ Median : 0.000   Median : 4.283   Median :10.50  
+ Mean   : 1.656   Mean   : 5.119   Mean   :10.70  
+ 3rd Qu.: 1.400   3rd Qu.: 8.858   3rd Qu.:17.00  
+ Max.   :50.500   Max.   :15.900   Max.   :29.10  
+
+[1] "station_4271"
+      RSK              SDK              TMK       
+ Min.   : 0.000   Min.   : 0.000   Min.   :-5.60  
+ 1st Qu.: 0.000   1st Qu.: 0.400   1st Qu.: 5.30  
+ Median : 0.000   Median : 4.600   Median :10.40  
+ Mean   : 1.735   Mean   : 5.298   Mean   :10.66  
+ 3rd Qu.: 1.700   3rd Qu.: 9.300   3rd Qu.:16.60  
+ Max.   :57.600   Max.   :16.300   Max.   :28.80  
+
+[1] "station_4625"
+      RSK             SDK              TMK       
+ Min.   : 0.00   Min.   : 0.000   Min.   :-8.00  
+ 1st Qu.: 0.00   1st Qu.: 0.500   1st Qu.: 4.90  
+ Median : 0.00   Median : 4.425   Median :10.60  
+ Mean   : 1.59   Mean   : 4.855   Mean   :10.57  
+ 3rd Qu.: 1.70   3rd Qu.: 8.000   3rd Qu.:16.40  
+ Max.   :26.30   Max.   :15.317   Max.   :29.00  
+
